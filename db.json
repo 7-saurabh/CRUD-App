@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "John",
+      "phone": 123456789,
+      "hobbies": "Reading"
+    },
+    {
+      "name": "saurabh",
+      "phone": "4561",
+      "hobbies": "teaching",
+      "id": 2
+    },
+    {
+      "name": "Rishabh",
+      "phone": "789456",
+      "hobbies": "Singing",
+      "id": 3
+    },
+    {
+      "name": "Satya",
+      "phone": "99185968",
+      "hobbies": "Reading,Singing",
+      "id": 4
+    },
+    {
+      "name": "Vishal Singh",
+      "phone": "123456789",
+      "hobbies": "Travelling",
+      "id": 5
+    }
+  ]
+}
